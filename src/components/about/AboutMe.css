@@ -1,0 +1,19 @@
+
+.about-me-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+}
+.about-me-header{
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+
+   
+}
+
+.about-me-content{
+    width: 100%;
+    max-width: 800px;
+}
