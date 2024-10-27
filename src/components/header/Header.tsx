@@ -7,7 +7,7 @@ const Header: React.FC = () => {
     <>
       <div className="header-top dark:bg-gray-800">
         <div className="header-content">
-          <img src="/mj.pgj" alt="" />
+          <img src="/mj.jpg" alt="image" />
         </div>
         <div className="content-text">
           <h1 className="dark:text-white" >MJ <span className="text-[#1cab9c]">Vinculado</span></h1>
